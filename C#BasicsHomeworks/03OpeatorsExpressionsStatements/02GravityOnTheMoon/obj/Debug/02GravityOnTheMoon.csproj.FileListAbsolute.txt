@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\bin\Debug\02GravityOnTheMoon.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\bin\Debug\02GravityOnTheMoon.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\bin\Debug\02GravityOnTheMoon.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\obj\Debug\02GravityOnTheMoon.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\obj\Debug\02GravityOnTheMoon.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\02GravityOnTheMoon\obj\Debug\02GravityOnTheMoon.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\bin\Debug\03DivideBySevenAndFive.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\bin\Debug\03DivideBySevenAndFive.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\bin\Debug\03DivideBySevenAndFive.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\obj\Debug\03DivideBySevenAndFive.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\obj\Debug\03DivideBySevenAndFive.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\03DivideBySevenAndFive\obj\Debug\03DivideBySevenAndFive.csprojResolveAssemblyReference.cache

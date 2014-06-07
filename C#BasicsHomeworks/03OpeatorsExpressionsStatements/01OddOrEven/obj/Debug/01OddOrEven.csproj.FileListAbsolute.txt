@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\bin\Debug\01OddOrEven.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\bin\Debug\01OddOrEven.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\01OddOrEven\obj\Debug\01OddOrEven.pdb
