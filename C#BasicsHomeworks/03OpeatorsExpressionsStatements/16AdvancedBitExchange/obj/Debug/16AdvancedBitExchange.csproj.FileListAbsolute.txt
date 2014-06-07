@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\bin\Debug\16AdvancedBitExchange.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\obj\Debug\16AdvancedBitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\bin\Debug\16AdvancedBitExchange.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\bin\Debug\16AdvancedBitExchange.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\obj\Debug\16AdvancedBitExchange.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\16AdvancedBitExchange\obj\Debug\16AdvancedBitExchange.pdb

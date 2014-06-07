@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\05SortingNumbers\obj\Debug\05SortingNumbers.csprojResolveAssemblyReference.cache

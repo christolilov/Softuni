@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\bin\Debug\15HexToDecimal.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\bin\Debug\15HexToDecimal.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\bin\Debug\15HexToDecimal.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\obj\Debug\15HexToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\obj\Debug\15HexToDecimal.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\15HexToDecimal\obj\Debug\15HexToDecimal.pdb

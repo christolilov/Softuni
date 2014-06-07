@@ -1,0 +1,2 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\13AverageLoadTimeCalculator\bin\Debug\13AverageLoadTimeCalculator.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\13AverageLoadTimeCalculator\obj\Debug\13AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache

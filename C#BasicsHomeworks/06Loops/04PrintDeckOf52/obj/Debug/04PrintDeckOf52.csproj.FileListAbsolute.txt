@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\bin\Debug\04PrintDeckOf52.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\bin\Debug\04PrintDeckOf52.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\bin\Debug\04PrintDeckOf52.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\obj\Debug\04PrintDeckOf52.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\obj\Debug\04PrintDeckOf52.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\04PrintDeckOf52\obj\Debug\04PrintDeckOf52.pdb

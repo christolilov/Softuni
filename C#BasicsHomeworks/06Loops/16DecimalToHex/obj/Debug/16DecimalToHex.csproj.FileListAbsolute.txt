@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\bin\Debug\16DecimalToHex.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\bin\Debug\16DecimalToHex.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\bin\Debug\16DecimalToHex.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\obj\Debug\16DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\obj\Debug\16DecimalToHex.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\16DecimalToHex\obj\Debug\16DecimalToHex.pdb

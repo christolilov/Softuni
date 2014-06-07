@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\bin\Debug\05CalculateFactorialFormula.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\bin\Debug\05CalculateFactorialFormula.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\bin\Debug\05CalculateFactorialFormula.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\obj\Debug\05CalculateFactorialFormula.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\obj\Debug\05CalculateFactorialFormula.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\05CalculateFactorialFormula\obj\Debug\05CalculateFactorialFormula.pdb

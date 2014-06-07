@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\bin\Debug\04MultiplicatorSign.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\bin\Debug\04MultiplicatorSign.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\bin\Debug\04MultiplicatorSign.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\obj\Debug\04MultiplicatorSign.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\obj\Debug\04MultiplicatorSign.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\04MultiplicatorSign\obj\Debug\04MultiplicatorSign.pdb

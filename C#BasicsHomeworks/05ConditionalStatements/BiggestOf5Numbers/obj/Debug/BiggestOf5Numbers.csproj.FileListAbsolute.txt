@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\BiggestOf5Numbers\bin\Debug\BiggestOf5Numbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\BiggestOf5Numbers\obj\Debug\BiggestOf5Numbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\BiggestOf5Numbers\obj\Debug\BiggestOf5Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.csprojResolveAssemblyReference.cache

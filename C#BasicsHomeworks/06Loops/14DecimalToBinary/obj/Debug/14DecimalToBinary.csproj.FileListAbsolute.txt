@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\14DecimalToBinary\bin\Debug\14DecimalToBinary.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\14DecimalToBinary\bin\Debug\14DecimalToBinary.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\14DecimalToBinary\bin\Debug\14DecimalToBinary.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\14DecimalToBinary\obj\Debug\14DecimalToBinary.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\14DecimalToBinary\obj\Debug\14DecimalToBinary.pdb

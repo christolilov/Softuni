@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\bin\Debug\11DividableByFive.exe.config
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\bin\Debug\11DividableByFive.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\bin\Debug\11DividableByFive.pdb
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\obj\Debug\11DividableByFive.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\obj\Debug\11DividableByFive.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\11DividableByFive\obj\Debug\11DividableByFive.pdb

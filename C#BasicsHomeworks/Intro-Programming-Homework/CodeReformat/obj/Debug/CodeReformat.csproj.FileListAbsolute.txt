@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\CodeReformat\bin\Debug\CodeReformat.pdb
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\CodeReformat\obj\Debug\CodeReformat.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\CodeReformat\obj\Debug\CodeReformat.pdb

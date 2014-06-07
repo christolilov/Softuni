@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\bin\Debug\08PrimeNumberCheck.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\08PrimeNumberCheck\obj\Debug\08PrimeNumberCheck.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.csprojResolveAssemblyReference.cache

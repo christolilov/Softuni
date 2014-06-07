@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\Nullables\bin\Debug\Nullables.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\Nullables\bin\Debug\Nullables.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\Nullables\bin\Debug\Nullables.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\Nullables\obj\Debug\Nullables.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\Nullables\obj\Debug\Nullables.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\09MatrixOfNumbers\bin\Debug\09MatrixOfNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\09MatrixOfNumbers\obj\Debug\09MatrixOfNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.pdb

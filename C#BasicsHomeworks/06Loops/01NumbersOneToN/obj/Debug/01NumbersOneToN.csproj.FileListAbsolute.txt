@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\bin\Debug\01NumbersOneToN.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\bin\Debug\01NumbersOneToN.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\bin\Debug\01NumbersOneToN.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\obj\Debug\01NumbersOneToN.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\obj\Debug\01NumbersOneToN.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\01NumbersOneToN\obj\Debug\01NumbersOneToN.pdb

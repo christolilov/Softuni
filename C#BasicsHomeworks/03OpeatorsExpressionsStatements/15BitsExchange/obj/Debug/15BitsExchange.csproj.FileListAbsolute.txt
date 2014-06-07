@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\obj\Debug\15BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\15BitsExchange\obj\Debug\15BitsExchange.pdb

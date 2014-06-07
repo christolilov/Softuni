@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\15ExtractURLsFromText\bin\Debug\15ExtractURLsFromText.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\15ExtractURLsFromText\obj\Debug\15ExtractURLsFromText.pdb

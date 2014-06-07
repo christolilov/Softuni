@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\12CountOfNames\bin\Debug\12CountOfNames.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\12CountOfNames\obj\Debug\12CountOfNames.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\12CountOfNames\obj\Debug\12CountOfNames.pdb

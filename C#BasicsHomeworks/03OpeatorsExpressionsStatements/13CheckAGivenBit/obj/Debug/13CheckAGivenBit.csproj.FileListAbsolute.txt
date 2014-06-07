@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\bin\Debug\13CheckAGivenBit.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\bin\Debug\13CheckAGivenBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\bin\Debug\13CheckAGivenBit.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\obj\Debug\13CheckAGivenBit.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\obj\Debug\13CheckAGivenBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\13CheckAGivenBit\obj\Debug\13CheckAGivenBit.pdb

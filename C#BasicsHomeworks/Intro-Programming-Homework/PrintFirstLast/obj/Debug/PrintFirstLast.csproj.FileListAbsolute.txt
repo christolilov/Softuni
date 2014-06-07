@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\bin\Debug\PrintFirstLast.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\bin\Debug\PrintFirstLast.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\bin\Debug\PrintFirstLast.pdb
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\obj\Debug\PrintFirstLast.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\obj\Debug\PrintFirstLast.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintFirstLast\obj\Debug\PrintFirstLast.pdb

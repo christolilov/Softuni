@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\10JoinLists\bin\Debug\10JoinLists.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\10JoinLists\obj\Debug\10JoinLists.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\10JoinLists\obj\Debug\10JoinLists.pdb

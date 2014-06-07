@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\obj\Debug\BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\BankAccountData\obj\Debug\BankAccountData.pdb

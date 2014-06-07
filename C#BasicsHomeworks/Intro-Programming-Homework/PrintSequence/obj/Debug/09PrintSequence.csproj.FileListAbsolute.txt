@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb

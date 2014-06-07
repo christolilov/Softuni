@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\bin\Debug\12ZeroSubset.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\12ZeroSubset\obj\Debug\12ZeroSubset.pdb

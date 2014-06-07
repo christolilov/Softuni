@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\PrintTable\bin\Debug\PrintTable.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\PrintTable\bin\Debug\PrintTable.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\PrintTable\bin\Debug\PrintTable.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\PrintTable\obj\Debug\PrintTable.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\PrintTable\obj\Debug\PrintTable.pdb

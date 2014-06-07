@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\bin\Debug\HexFormat.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\bin\Debug\HexFormat.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\bin\Debug\HexFormat.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\obj\Debug\HexFormat.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\obj\Debug\HexFormat.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\HexFormat\obj\Debug\HexFormat.pdb

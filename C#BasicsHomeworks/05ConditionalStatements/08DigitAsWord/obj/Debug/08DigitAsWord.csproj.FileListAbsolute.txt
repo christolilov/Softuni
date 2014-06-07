@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\bin\Debug\01FibonacciNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\01FibonacciNumbers\obj\Debug\01FibonacciNumbers.pdb

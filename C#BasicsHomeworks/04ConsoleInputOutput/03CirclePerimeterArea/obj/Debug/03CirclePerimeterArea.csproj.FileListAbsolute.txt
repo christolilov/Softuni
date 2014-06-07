@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.exe.config
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\03CirclePerimeterArea\bin\Debug\03CirclePerimeterArea.pdb
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\03CirclePerimeterArea\obj\Debug\03CirclePerimeterArea.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\03CirclePerimeterArea\obj\Debug\03CirclePerimeterArea.pdb

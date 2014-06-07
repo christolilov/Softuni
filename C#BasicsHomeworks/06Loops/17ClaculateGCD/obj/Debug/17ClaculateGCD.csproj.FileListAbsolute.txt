@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\bin\Debug\17ClaculateGCD.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\bin\Debug\17ClaculateGCD.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\bin\Debug\17ClaculateGCD.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\obj\Debug\17ClaculateGCD.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\obj\Debug\17ClaculateGCD.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\17ClaculateGCD\obj\Debug\17ClaculateGCD.pdb

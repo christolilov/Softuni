@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\bin\Debug\07CalculateNumberOfCombinations.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\bin\Debug\07CalculateNumberOfCombinations.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\bin\Debug\07CalculateNumberOfCombinations.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\obj\Debug\07CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\obj\Debug\07CalculateNumberOfCombinations.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\07CalculateNumberOfCombinations\obj\Debug\07CalculateNumberOfCombinations.pdb

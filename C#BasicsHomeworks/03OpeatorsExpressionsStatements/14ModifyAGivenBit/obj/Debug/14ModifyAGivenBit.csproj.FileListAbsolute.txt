@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\bin\Debug\14ModifyAGivenBit.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\bin\Debug\14ModifyAGivenBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\bin\Debug\14ModifyAGivenBit.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\obj\Debug\14ModifyAGivenBit.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\obj\Debug\14ModifyAGivenBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\14ModifyAGivenBit\obj\Debug\14ModifyAGivenBit.pdb

@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\06DivideFactorials\bin\Debug\06DivideFactorials.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\06DivideFactorials\bin\Debug\06DivideFactorials.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\06DivideFactorials\bin\Debug\06DivideFactorials.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\06DivideFactorials\obj\Debug\06DivideFactorials.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\06DivideFactorials\obj\Debug\06DivideFactorials.pdb

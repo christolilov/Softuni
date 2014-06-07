@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.csprojResolveAssemblyReference.cache

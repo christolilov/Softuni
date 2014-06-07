@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\bin\Debug\11CountOfLetters.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\bin\Debug\11CountOfLetters.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\bin\Debug\11CountOfLetters.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\obj\Debug\11CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\obj\Debug\11CountOfLetters.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\11CountOfLetters\obj\Debug\11CountOfLetters.pdb

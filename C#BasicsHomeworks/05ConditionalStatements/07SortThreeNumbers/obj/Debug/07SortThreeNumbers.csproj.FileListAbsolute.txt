@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\bin\Debug\07SortThreeNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\bin\Debug\07SortThreeNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\bin\Debug\07SortThreeNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\obj\Debug\07SortThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\obj\Debug\07SortThreeNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\07SortThreeNumbers\obj\Debug\07SortThreeNumbers.pdb

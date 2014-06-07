@@ -1,0 +1,3 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

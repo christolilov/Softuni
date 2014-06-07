@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\bin\Debug\01SumOf3Ints.exe.config
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\bin\Debug\01SumOf3Ints.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\bin\Debug\01SumOf3Ints.pdb
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\obj\Debug\01SumOf3Ints.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\obj\Debug\01SumOf3Ints.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\01SumOf3Ints\obj\Debug\01SumOf3Ints.pdb

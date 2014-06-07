@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

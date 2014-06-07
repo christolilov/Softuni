@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\Numbers1ToN\bin\Debug\Numbers1ToN.exe.config
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\Numbers1ToN\bin\Debug\Numbers1ToN.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\Numbers1ToN\bin\Debug\Numbers1ToN.pdb
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\Numbers1ToN\obj\Debug\Numbers1ToN.exe
+C:\Users\Tuhlior\Desktop\Homework\04ConsoleInputOutput\Numbers1ToN\obj\Debug\Numbers1ToN.pdb

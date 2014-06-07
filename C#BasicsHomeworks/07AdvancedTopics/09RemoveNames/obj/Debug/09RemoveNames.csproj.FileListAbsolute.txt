@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.exe.config
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\09RemoveNames\bin\Debug\09RemoveNames.pdb
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\09RemoveNames\obj\Debug\09RemoveNames.exe
+C:\Users\Tuhlior\Desktop\Homework\07AdvancedTopics\09RemoveNames\obj\Debug\09RemoveNames.pdb

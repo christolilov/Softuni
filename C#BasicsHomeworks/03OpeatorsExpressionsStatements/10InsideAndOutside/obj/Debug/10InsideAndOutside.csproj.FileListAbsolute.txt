@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\bin\Debug\10InsideAndOutside.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\bin\Debug\10InsideAndOutside.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\bin\Debug\10InsideAndOutside.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\obj\Debug\10InsideAndOutside.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\obj\Debug\10InsideAndOutside.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\10InsideAndOutside\obj\Debug\10InsideAndOutside.csprojResolveAssemblyReference.cache

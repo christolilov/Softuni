@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\bin\Debug\05ThirdDigit.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\bin\Debug\05ThirdDigit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\bin\Debug\05ThirdDigit.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\obj\Debug\05ThirdDigit.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\obj\Debug\05ThirdDigit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\05ThirdDigit\obj\Debug\05ThirdDigit.pdb

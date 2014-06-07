@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\UnicodeValue\bin\Debug\UnicodeValue.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\UnicodeValue\bin\Debug\UnicodeValue.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\UnicodeValue\bin\Debug\UnicodeValue.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\UnicodeValue\obj\Debug\UnicodeValue.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\UnicodeValue\obj\Debug\UnicodeValue.pdb

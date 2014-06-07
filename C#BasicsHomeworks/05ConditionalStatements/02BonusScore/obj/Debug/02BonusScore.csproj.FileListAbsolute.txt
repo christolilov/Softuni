@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.pdb

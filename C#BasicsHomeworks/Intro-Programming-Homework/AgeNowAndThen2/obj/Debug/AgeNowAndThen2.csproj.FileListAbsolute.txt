@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\bin\Debug\AgeNowAndThen2.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\bin\Debug\AgeNowAndThen2.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\bin\Debug\AgeNowAndThen2.pdb
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\obj\Debug\AgeNowAndThen2.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\obj\Debug\AgeNowAndThen2.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\AgeNowAndThen2\obj\Debug\AgeNowAndThen2.pdb

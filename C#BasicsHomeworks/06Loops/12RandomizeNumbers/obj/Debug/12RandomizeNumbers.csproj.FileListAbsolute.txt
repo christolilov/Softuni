@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\bin\Debug\12RandomizeNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\bin\Debug\12RandomizeNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\bin\Debug\12RandomizeNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\obj\Debug\12RandomizeNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\obj\Debug\12RandomizeNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\12RandomizeNumbers\obj\Debug\12RandomizeNumbers.csprojResolveAssemblyReference.cache

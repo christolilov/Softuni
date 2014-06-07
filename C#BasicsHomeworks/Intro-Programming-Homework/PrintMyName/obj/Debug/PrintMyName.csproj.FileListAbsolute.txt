@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Tuhlior\Desktop\Homework\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

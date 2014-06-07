@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Tuhlior\Desktop\Homework\Primitive-Data-Types-And-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

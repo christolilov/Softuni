@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\bin\Debug\05BiggestOf3Numbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\bin\Debug\05BiggestOf3Numbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\bin\Debug\05BiggestOf3Numbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\obj\Debug\05BiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\obj\Debug\05BiggestOf3Numbers.exe
+C:\Users\Tuhlior\Desktop\Homework\05ConditionalStatements\05BiggestOf3Numbers\obj\Debug\05BiggestOf3Numbers.pdb

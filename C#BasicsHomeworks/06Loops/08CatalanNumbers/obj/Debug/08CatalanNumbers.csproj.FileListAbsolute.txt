@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\bin\Debug\08CatalanNumbers.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\08CatalanNumbers\obj\Debug\08CatalanNumbers.pdb

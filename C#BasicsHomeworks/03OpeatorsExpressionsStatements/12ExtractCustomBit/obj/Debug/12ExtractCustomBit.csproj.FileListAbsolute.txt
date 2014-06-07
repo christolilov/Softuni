@@ -1,0 +1,5 @@
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\12ExtractCustomBit\bin\Debug\12ExtractCustomBit.exe.config
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\12ExtractCustomBit\bin\Debug\12ExtractCustomBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\12ExtractCustomBit\bin\Debug\12ExtractCustomBit.pdb
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\12ExtractCustomBit\obj\Debug\12ExtractCustomBit.exe
+C:\Users\Tuhlior\Desktop\Homework\03OpeatorsExpressionsStatements\12ExtractCustomBit\obj\Debug\12ExtractCustomBit.pdb

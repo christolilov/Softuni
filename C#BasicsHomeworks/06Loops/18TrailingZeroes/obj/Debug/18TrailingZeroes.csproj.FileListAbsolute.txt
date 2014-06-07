@@ -1,0 +1,6 @@
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\bin\Debug\18TrailingZeroes.exe.config
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\bin\Debug\18TrailingZeroes.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\bin\Debug\18TrailingZeroes.pdb
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\obj\Debug\18TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\obj\Debug\18TrailingZeroes.exe
+C:\Users\Tuhlior\Desktop\Homework\06Loops\18TrailingZeroes\obj\Debug\18TrailingZeroes.pdb
