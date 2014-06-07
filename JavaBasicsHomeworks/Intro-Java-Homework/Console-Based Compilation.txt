@@ -1,0 +1,4 @@
+1. shift + десен бутон + open new command prompt window here в директорията на програмата
+2. set path=%path%;(пътя до bin папката на jdk) 
+3. javac SumTwoNumbers.java
+4. java SumTwoNumbers
